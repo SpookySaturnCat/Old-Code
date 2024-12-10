@@ -1,0 +1,5 @@
+Name: Max
+Pronouns: [He, Him]
+Level: 1
+Stage: Starting
+Recipes cooked: 1
